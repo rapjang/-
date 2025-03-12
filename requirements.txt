@@ -1,0 +1,12 @@
+numpy
+pandas
+json
+folium
+geopandas
+shapely
+fiona
+pyproj
+requests
+matplotlib
+seaborn
+scipy
